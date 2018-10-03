@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<line x1="100" y1="300" x2="300" y2="100" stroke="rgb(0, 0, 255)" stroke-width="5" stroke-opacity="0.7"/>
+<line x1="300" y1="300" x2="500" y2="100" stroke="rgb(0, 0, 255)" stroke-width="10" stroke-opacity="0.8"/>
+<line x1="500" y1="300" x2="700" y2="100" stroke="rgb(0, 0, 255)" stroke-width="15" stroke-opacity="0.9"/>
+<rect x="1" y="1" width="1200" height="600" stroke="rgb(0, 0, 255)" stroke-width="10" fill="rgb(255, 0, 0)" stroke-opacity="0.7" fill-opacity="0.5" />
+<rect x="150" y="150" width="200" height="200" stroke="rgb(0, 0, 255)" stroke-width="10" fill="rgb(255, 0, 0)" stroke-opacity="0.7" fill-opacity="0.5" transform="translate(-100, 200) rotate(-45)" />
+<circle cx="100" cy="200" r="100" fill="rgb(255, 255, 0)" stroke="rgb(0, 255, 255)" stroke-width="10" stroke-opacity="0.7" fill-opacity="0.5" transform="translate(550, -100)" />
+<circle cx="100" cy="200" r="200" fill="rgb(255, 255, 0)" stroke="rgb(0, 255, 255)" stroke-width="10" stroke-opacity="0.7" fill-opacity="0.5" />
+<ellipse cx="150" cy="100" rx="200" ry="100" stroke="rgb(255, 255, 0)" stroke-width="3" fill="rgb(0, 255, 0)" stroke-opacity="0.7" fill-opacity="0.5" transform="rotate(-30) translate(-200, -30)" />
+<polyline stroke="rgb(255, 0, 0)" stroke-width="3" stroke-opacity="0.7" fill="rgb(0, 255, 255)" fill-opacity="0.5" transform="translate(0, 120)" points="50,375 150,375 150,325 250,325 250,375 350,375 350,250 450,250 450,375 550,375 550,175 650,175 650,375 750,375 750,100 850,100 850,375 950,375 950,25 1050,25 1050,375 1150,375" />
+<polygon fill="rgb(255, 255, 0)" fill-opacity="0.6" stroke-width="10" stroke="rgb(255, 0, 0)" stroke-opacity="0.7" transform="translate(-200, 120)" points="350,75 379,161 469,161 397,215 423,301 350,250 277,301 303,215 231,161 321,161" />
+<polygon fill="rgb(153, 204, 255)" fill-opacity="0.5" stroke-width="10" stroke="rgb(255, 0, 102)" stroke-opacity="0.7" transform="translate(-180, -70)" points="850,75 958,137 958,262 850,325 742,262 742,137" />
+<line x1="100" y1="300" x2="300" y2="100" stroke="none" stroke-width="5" stroke-opacity="0.7" transform="rotate(45)" />
+<rect x="1" y="1" width="1200" height="600" stroke="none" stroke-width="10" fill="rgb(255, 0, 0)" stroke-opacity="0.7" fill-opacity="0.5" />
+<rect x="150" y="150" width="200" height="200" stroke="none" stroke-width="10" fill="rgb(255, 0, 0)" stroke-opacity="0.7" fill-opacity="0.5" transform="translate(-100, 200) rotate(-45)" />
+<circle cx="100" cy="200" r="100" fill="rgb(255, 255, 0)" stroke="none" stroke-width="10" stroke-opacity="0.7" fill-opacity="0.5" transform="translate(550, -100)" />
+<circle cx="100" cy="200" r="200" fill="rgb(255, 255, 0)" stroke="none" stroke-width="10" stroke-opacity="0.7" fill-opacity="0.5" />
+<ellipse cx="150" cy="100" rx="200" ry="100" stroke="none" stroke-width="3" fill="rgb(0, 255, 0)" stroke-opacity="0.7" fill-opacity="0.5" transform="rotate(-30) translate(-200, -30)" />
+<polyline stroke="none" stroke-width="3" stroke-opacity="0.7" fill="rgb(0, 255, 255)" fill-opacity="0.5" transform="translate(0, 120)" points="50,375 150,375 150,325 250,325 250,375 350,375 350,250 450,250 450,375 550,375 550,175 650,175 650,375 750,375 750,100 850,100 850,375 950,375 950,25 1050,25 1050,375 1150,375" />
+<polygon fill="none" fill-opacity="0.6" stroke-width="10" stroke="rgb(255, 0, 0)" stroke-opacity="0.7" transform="translate(-200, 120)" points="350,75 379,161 469,161 397,215 423,301 350,250 277,301 303,215 231,161 321,161" />
+<polygon fill="rgb(153, 204, 255)" fill-opacity="0.5" stroke-width="10" stroke="rgb(255, 0, 102)" stroke-opacity="0.7" transform="translate(-180, -70)" points="850,75 958,137 958,262 850,325 742,262 742,137" />
+</svg>

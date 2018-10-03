@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<polygon fill="rgb(255, 255, 0)" fill-opacity="0.6" stroke-width="10" stroke="rgb(255, 0, 0)" stroke-opacity="0.7" transform="translate(-200, 120)" points="350,75 379,161 469,161 397,215 423,301 350,250 277,301 303,215 231,161 321,161" />
+<polygon fill="rgb(153, 204, 255)" fill-opacity="0.5" stroke-width="10" stroke="rgb(255, 0, 102)" stroke-opacity="0.7" transform="translate(-180, -70)" points="850,75 958,137 958,262 850,325 742,262 742,137" />
+</svg>

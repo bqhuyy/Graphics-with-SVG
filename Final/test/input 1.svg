@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<line x1="100" y1="100" x2="100" y2="300" stroke="rgb(0, 0, 255)" stroke-width="15" />
+<line x1="0"   y1="100" x2="200" y2="100" stroke="rgb(0, 0, 255)" stroke-width="10" />
+
+<line x1="250" y1="300" x2="250" y2="100" stroke="rgb(0, 0, 255)" stroke-width="15" />
+<line x1="250" y1="200" x2="350" y2="200" stroke="rgb(0, 0, 255)" stroke-width="10" />
+<line x1="350" y1="100" x2="350" y2="300" stroke="rgb(0, 0, 255)" stroke-width="15" />
+
+<line x1="450" y1="100" x2="375" y2="300" stroke="rgb(0, 0, 255)" stroke-width="15" />
+<line x1="450" y1="100" x2="525" y2="300" stroke="rgb(0, 0, 255)" stroke-width="15" />
+<line x1="375" y1="200" x2="525" y2="200" stroke="rgb(0, 0, 255)" stroke-width="15" />
+
+<line x1="400" y1="25"  x2="500" y2="75"  stroke="rgb(0, 0, 255)" stroke-width="15" />
+
+<line x1="550" y1="100" x2="550" y2="300" stroke="rgb(0, 0, 255)" stroke-width="15" />
+<line x1="547" y1="100" x2="650" y2="300" stroke="rgb(0, 0, 255)" stroke-width="15" />
+<line x1="650" y1="100" x2="650" y2="300" stroke="rgb(0, 0, 255)" stroke-width="15" />
+
+<line x1="700" y1="300" x2="700" y2="100" stroke="rgb(0, 0, 255)" stroke-width="15" />
+<line x1="700" y1="200" x2="800" y2="200" stroke="rgb(0, 0, 255)" stroke-width="10" />
+<line x1="800" y1="100" x2="800" y2="300" stroke="rgb(0, 0, 255)" stroke-width="15" />
+
+<text x="300" y="400" fill="rgb(255,0,255)" font-size="30">HONG CHAN THANH</text>
+</svg>
