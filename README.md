@@ -6,4 +6,6 @@ I store some sample xml images in "test" folder
 
 Graphics-with-SVG uses Object Oriented Programming and RapidXML library.
 
+UML diagram: https://imgur.com/a/gxGHWz0
+
 RapidXML: http://rapidxml.sourceforge.net/
